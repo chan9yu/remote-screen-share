@@ -1,0 +1,34 @@
+{
+  "name": "next-boilerplate",
+  "version": "0.0.1",
+  "private": true,
+  "description": "📦 Next.js 보일러플레이트",
+  "packageManager": "yarn@1.22.22",
+  "author": "chan9yu <dev.cgyeo@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chan9yu/next-boilerplate"
+  },
+  "scripts": {
+    "dev": "next dev --turbopack -p 3035",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "15.1.6"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.6",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
