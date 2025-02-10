@@ -1,9 +1,5 @@
-# next-boilerplate
+# remote-screen-share
 
-> 📦 Next.js 보일러플레이트
+> 🖥️ 원격 화면 공유 웹 서비스
 
-Next.js 보일러플레이트 입니다.
-
-- eslint, prettier
-- husky, lint-staged
-- Tailwind CSS
+별도의 플러그인이나 소프트웨어 설치 없이 브라우저에서 바로 사용할 수 있는 실시간 원격 화면 공유 서비스

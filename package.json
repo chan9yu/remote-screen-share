@@ -1,13 +1,13 @@
 {
-	"name": "next-boilerplate",
+	"name": "remote-screen-share",
 	"version": "0.0.1",
 	"private": true,
-	"description": "📦 Next.js 보일러플레이트",
+	"description": "🖥️ 원격 화면 공유 웹 서비스",
 	"packageManager": "yarn@1.22.22",
 	"author": "chan9yu <dev.cgyeo@gmail.com>",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/chan9yu/next-boilerplate"
+		"url": "https://github.com/chan9yu/remote-screen-share"
 	},
 	"lint-staged": {
 		"**/*.{ts,tsx}": [
